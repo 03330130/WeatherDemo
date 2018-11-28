@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname values="DB_Store"/>
+    <version version="1"/>
+    <list>
+        <mapping class="bourne.com.weatherdemo.db.Province"/>
+        <mapping class="bourne.com.weatherdemo.db.City"/>
+        <mapping class="bourne.com.weatherdemo.db.Country"/>
+    </list>
+</litepal>
